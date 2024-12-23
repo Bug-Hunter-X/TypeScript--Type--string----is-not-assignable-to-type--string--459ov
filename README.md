@@ -1,0 +1,2 @@
+# TypeScript Type Error: string[] not assignable to type string
+This example demonstrates a common TypeScript error: passing an array of strings to a function expecting a single string.  The code attempts to use an array as a single string argument. The solution involves properly handling the array within the function or modifying the function's signature to accept arrays.
